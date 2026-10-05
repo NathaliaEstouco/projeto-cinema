@@ -22,7 +22,7 @@ O repositório contém as duas aplicações necessárias:
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/danilocardoso-dev/cinemaT2.git
+git clone https://github.com/NathaliaEstouco/projeto-cinema.git 
 cd cinemaT2
 ```
 
